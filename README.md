@@ -8,7 +8,7 @@ Founder and hands-on engineer. I've run **TKORP**, a French software company, fo
 
 **[ObesiFlow](https://obesiflow.fr)** · a GLP-1 eligibility and care-orientation tool for patients and physicians.
 
-**Pulse** · a proprietary device management platform (MDM/EMM). Multi-tenant from the first commit, built as a Turborepo monorepo with a Kotlin agent and a NestJS/GraphQL backend.
+**[Pulse](https://pulse-xr.com)** · a proprietary device management platform (MDM/EMM). Multi-tenant from the first commit, built as a Turborepo monorepo with a Kotlin agent and a NestJS/GraphQL backend.
 
 #### Tools of the trade
 
